@@ -2,3 +2,6 @@ scipy
 opencv-contrib-python
 numpy
 matplotlib
+jupyterlab
+pandas
+tqdm
